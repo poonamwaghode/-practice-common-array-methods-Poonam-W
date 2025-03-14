@@ -45,5 +45,5 @@ console.log("Updated number of drinks:", orders[0].length); // 4
 let category = 0; // Drinks category
 let orderIndex = 3; // Newly added order
 console.log(orders[category][orderIndex]); // "Flat White"
-Order & Track Length
+
 
